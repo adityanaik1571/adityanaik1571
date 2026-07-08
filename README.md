@@ -42,7 +42,7 @@ A production-oriented, configurable Retrieval-Augmented Generation (RAG) framewo
 </a>
 
 <a href="https://flask.palletsprojects.com/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="45" height="45"/>
 </a>
 
 <a href="https://www.postgresql.org/" target="_blank">
@@ -117,18 +117,6 @@ A Flask-based project management system featuring authentication, role-based acc
 - Agentic AI Systems
 - Scalable Backend Architecture
 - Production AI Deployment
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=adityanaik1571&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityanaik1571&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
 
 ---
 
